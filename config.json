@@ -1,0 +1,6 @@
+{
+    "base_path": "Project\\Path",
+    "project_name": "project_name",
+    "github_token" : null,
+    "github_url": null
+}
