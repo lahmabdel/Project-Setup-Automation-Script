@@ -61,7 +61,7 @@ To use this automation tool, you can pull it from its GitHub repository and set 
 
 6. Run the script to set up a project:
    ```bash
-   python setup_project.py
+   python main.py
    ```
 
 ## Configuration
